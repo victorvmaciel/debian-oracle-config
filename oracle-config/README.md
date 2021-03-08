@@ -1,3 +1,5 @@
+Script para instalar oracle 
+
 *Dar permissão ao arquivo*
 
     $ chmod a+x oracle-config.sh

@@ -22,7 +22,7 @@ Script para instalar oracle em Debian para configuração do ambiente de Dev Rub
     $gem 'activerecord-oracle_enhanced-adapter'
     $gem 'ruby-oci8'
     
-    OBS: essa gem tem que estar no GEMFILE do projeto.
+OBS: essa gem tem que estar no GEMFILE do projeto.
     
     $gem install ruby-oci8
     $gem install activerecord-oracle_enhanced-adapter
